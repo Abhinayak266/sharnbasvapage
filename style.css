@@ -1,0 +1,21 @@
+.header{
+    background-colour:  yellow;
+    text-align: center;
+    background: url("download.jpg");
+    background-size: cover;
+}
+
+.nav{
+    background-color: aqua;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.a{
+    color: white;
+}
+
+.h1{
+    font-size: 90px;
+    margin:50px;
+}
